@@ -1,0 +1,3 @@
+Q: Why are you interested in taking CMSC320?".
+
+A: The reason why I am taking 320 is to understand data science more fundamentally 
